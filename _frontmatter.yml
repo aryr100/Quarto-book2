@@ -2,7 +2,7 @@ format:
   docx:
     toc: true
     toc-depth: 2
-    reference-doc: template.docx
+    reference-doc: Jacobs-reference-doc.docx
     always_allow_html: true
   titlepage-pdf:
     documentclass: scrbook
@@ -13,7 +13,7 @@ format:
     lof: true
     lot: true
     titlepage: true
-    titlepage-bg-image: "images/corner-image.png"
+    titlepage-bg-image: "images/Jacobs_Carbon_First_rgb_black.png"
     titlepage-geometry: ["top=3in", "bottom=1in", "right=1in", "left=1.75in"]
     titlepage-theme:
       title-style: "plain"
@@ -23,18 +23,14 @@ format:
       title-align: "left"
       author-fontsize: 20
       vrule-width: 0pt
-      bg-image-size: "0.75\\paperwidth"
+      bg-image-size: "0.5\\paperwidth"
       bg-image-location: "ULCorner"
-    coverpage: true
-    coverpage-bg-image: "images/cover-header-2.png"
-    coverpage-header: "NOAA Technical Memorandum NMFS-XXX-##"
+    coverpage: false
+    coverpage-bg-image: "images/Jacobs_jmark_rgb_black.png"
+    coverpage-header: "Jacobs Strategy & Advisory"
     coverpage-date: "January 2023"
     coverpage-footer: |
-      U.S. DEPARTMENT OF COMMERCE \
-      \
-      National Oceanic and Atmospheric Administration \
-      National Marine Fisheries Service \
-      Northwest Fisheries Science Center
+      "Jacobs Energy Transition"
     coverpage-theme:
       title-style: "plain"
       title-align: "left"

@@ -7,7 +7,7 @@ book:
   page-navigation: true
   title: "Grant's quarto book" 
   site-url: "https://www.jacobs.com/" 
-  repo-url: "https://github.com/cobleg"
+  repo-url: "https://github.com/aryr100/quarto-book2"
   repo-actions: [source, issue]
   favicon: assets/favicon.ico
   downloads: [pdf, docx]
@@ -41,7 +41,7 @@ book:
     align: center
     tools: 
       - icon: globe
-        href: https://github.com/cobleg
+        href: https://github.com/aryr100
         text: "GCN"
     style: "docked"
     search: true

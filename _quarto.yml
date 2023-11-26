@@ -1,5 +1,7 @@
 project: 
   type: book
+  # change output-dir to "docs" to publish to gh pages
+  output-dir: docs
 
 book: 
   page-navigation: true

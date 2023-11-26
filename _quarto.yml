@@ -8,7 +8,7 @@ book:
   title: "Grant's quarto book" 
   site-url: "https://www.jacobs.com/" 
   repo-url: "https://github.com/cobleg"
-  repo-actions: [edit, source, issue]
+  repo-actions: [source, issue]
   favicon: assets/favicon.ico
   downloads: [pdf, docx]
   search: true
@@ -73,7 +73,7 @@ filters:
   - assets/include-files.lua
   - quarto
 
-# Comment next 2 lines if the PDF is having trouble
+# Comment the next 2 lines if the PDF is having trouble
 metadata-files:
   - _frontmatter.yml
  

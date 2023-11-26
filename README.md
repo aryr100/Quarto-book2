@@ -1,5 +1,3 @@
-[![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4838825) *Try without installing anything. Make sure to click the Make a Copy button or you will lose all your changes.*
- 
 # NOAA quarto book with R and download PDF or docx
 
 This is a template for [a simple Quarto book](https://nmfs-opensci.github.io/NOAA-quarto-book/) (`type: book`). It has download links (under the logo) for PDF or docx download.
@@ -10,10 +8,10 @@ The repo includes a GitHub Action that will build the book (html, PDF, and docx)
 
 ## GitHub Set-up
 
-* Click the green "Use This Template" button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn't work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch).
+* Click the green "Use This Template" button to make a repository with this content. Make sure to make your repo public (since GitHub Pages don't work on private repos unless you have a paid account) and check the box to include all the branches (so that you get the gh-pages branch).
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/2545978/197051535-c43c62de-17e8-40bf-a536-3eea8db250c4.png">
 
-* Turn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and root directory.
+* Turn on GitHub Pages under Settings > Pages. You will set pages to be made from the gh-pages branch and root directory.
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png">
 
 * Turn on GitHub Actions under Settings > Actions > General
